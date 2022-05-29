@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/netPark/node-openalpr.git"
+    "url": "git://github.com/munsterlander/node-openalpr.git"
   },
   "dependencies": {
     "fs-extra": "^0.23.1",
@@ -35,7 +35,7 @@
   "binary": {
     "module_name": "node_openalpr",
     "module_path": "release/{platform}_{arch}/",
-    "host": "https://github.com/netPark/node-openalpr"
+    "host": "https://github.com/munsterlander/node-openalpr"
   },
   "engines": {
     "node": ">= 4.0.0",
